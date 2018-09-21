@@ -10,6 +10,6 @@ function overwriteBestCustomer(){
   bestCustomer = 'maybe bob'
 }
 var leastFavoriteCustomer = 'bob';
-function leastFavoriteCustomer(){
+function changeleastFavoriteCustomer(){
   leastFavoriteCustomer = 'tim';
 }
