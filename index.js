@@ -9,4 +9,7 @@ function setBestCustomer(){
 function overwriteBestCustomer(){
   bestCustomer = 'maybe bob'
 }
-var = leastFavoriteCustomer
+var leastFavoriteCustomer = 'bob';
+function leastFavoriteCustomer(){
+  leastFavoriteCustomer = 'tim';
+}
