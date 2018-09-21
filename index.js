@@ -7,5 +7,5 @@ function setBestCustomer(){
   bestCustomer = 'not Bob'
 }
 function overwriteBestCustomer(){
-  
+  bestCustomer = 'BoB'
 }
